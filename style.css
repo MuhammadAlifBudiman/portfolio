@@ -24,10 +24,14 @@ html {
 }
 
 
+main {
+    background: linear-gradient(to bottom, #F0F4F8, #E8ECF1);
+}
+
 
 #home {
     padding-top: 100px;
-    background-image: url(https://source.unsplash.com/KgjcndVr7tU/1920x1080);
+    background-image: url("/img/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg");
     background-size: cover;
     background-color: #eee;
     height: 600px;
